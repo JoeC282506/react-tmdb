@@ -1,4 +1,4 @@
-import React from "react"; // rafce快速生成 by simple react snippets插件
+// rafce快速生成 by simple react snippets插件
 
 const MovieCard = ({
   movie: { title, vote_average, poster_path, release_date, original_language }, // api Response內既值 https://developer.themoviedb.org/reference/discover-movie
