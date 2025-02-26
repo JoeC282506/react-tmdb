@@ -12,8 +12,8 @@ This is a movie information website built with React, utilizing hooks such as `u
 
 ![圖片](https://github.com/JoeC282506/react-tmdb/blob/main/TMDBimg2.png)
 
-## Live Website ( SiteGround )
-https://joe28pract.com/
+## Live Website ( GitHub )
+https://joec282506.github.io/react-tmdb/
 
 ## Contact
 Feel free to reach out with any questions or feedback at [joec282506@gmail.com](mailto:joec282506@gmail.com).
